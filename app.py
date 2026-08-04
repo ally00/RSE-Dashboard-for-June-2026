@@ -71,6 +71,7 @@ st.markdown(f"""
     .glossary-term {{
         background-color: #F4F7FB; border-radius: 8px; padding: 12px 16px; margin-bottom: 10px;
         border-left: 4px solid {ACCENT};
+        color: #1A1A2E;
     }}
     .glossary-term b {{ color: {PRIMARY}; }}
 </style>
