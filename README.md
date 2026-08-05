@@ -1,4 +1,4 @@
-# RSE Trading Dashboard — June 2026
+# RSE Trading Dashboard  (June 2026)
 
 An interactive Streamlit dashboard analyzing Rwanda Stock Exchange trading data for June 2026.
 
